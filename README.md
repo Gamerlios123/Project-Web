@@ -1,0 +1,2 @@
+# Project-WebDevelopment
+A very old web server project I worked and learned on in my free time throughout high school and into college. The site was used to provide easy access to my notes, code examples, and also served as a resume showcase for employers out of college. The site also provided a useful environment for trying out and learning many aspects of web development through practical experience.
